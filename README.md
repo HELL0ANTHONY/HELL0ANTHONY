@@ -51,4 +51,5 @@ export default ThisIsMe;
 
 ```
 
+###### Contact: [<strong style=color:blue;>in</strong>](https://www.linkedin.com/in/jorgeantoniofernandezdev/) [ <strong style=color:blue;>@</strong>](george.anthony100@hotmail.com)
 
